@@ -48,3 +48,6 @@ env/
 
 # Output PDFs (optional - uncomment if you don't want to track split PDFs)
 # *_part*.pdf
+
+# PDF files (test data)
+*.pdf
